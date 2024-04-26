@@ -1,6 +1,9 @@
 # Tab-Bomb-Virus
 A slightly dangerous virus
 
+Disclaimer:
+This is for educational and prank purposes ONLY. You can send this to friends as a joke but DO NOT use this for malicious purposes.
+
 Warning:
 Your PC's power supply will have to be cut in order to remove the virus unless you use Alt, F4 to shut down your PC.
 
