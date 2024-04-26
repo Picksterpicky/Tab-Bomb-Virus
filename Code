@@ -1,5 +1,3 @@
-#Setup
-1) Copy and paste this code into a notepad file:
 do
 Set wshshell = wscript.CreateObject("WScript.Shell")
 Wshshell.run "Notepad"
@@ -14,5 +12,3 @@ wshshell.sendkeys "U"
 wscript.sleep 100
 wshshell.sendkeys "S"
 loop
-
-2) Save it as all files and add .vbs to the end of the name.
